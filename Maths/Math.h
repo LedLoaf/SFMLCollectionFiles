@@ -1,5 +1,4 @@
-#ifndef MATH_HPP
-#define MATH_HPP
+#pragma once
 
 #include "Distribution.hpp"
 #include "Generics.hpp"
@@ -7,5 +6,3 @@
 #include "Trigonometry.hpp"
 #include "Vector2.hpp"
 #include "Vector3.hpp"
-
-#endif
